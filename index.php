@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Hello World!</title>
+<title>Hello World! This is Owen's PHP app.</title>
 </head>
 
 <body>
